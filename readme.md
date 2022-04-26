@@ -1,1 +1,1 @@
-[<img src="./8.svg" width="600" alt="alt text">](https://vercel.com/?utm_source=educatehacks&utm_campaign=oss)
+[<img src="https://raw.githubusercontent.com/wardecs/educatehacks-website/99da2f5c23e86639578b2fc3631752ba0a1ce29c/8.svg" width="600" alt="alt text">](https://vercel.com/?utm_source=educatehacks&utm_campaign=oss)
